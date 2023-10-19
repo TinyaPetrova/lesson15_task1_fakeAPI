@@ -3,54 +3,54 @@
    "surame":"Radcliffe",
    "gender":"male",
    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/DanielRadcliffe.jpg/800px-DanielRadcliffe.jpg",
-   "mark":10/10
+   "mark":"10/10"
 }
 {
    "name":"Misha",
    "surame":"Collins",
    "gender":"male",
    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Misha_Collins_by_Gage_Skidmore_4.jpg/800px-Misha_Collins_by_Gage_Skidmore_4.jpg",
-   "mark":9/10
+   "mark":"9/10"
 }
 {
-   "name":"Harry",
-   "surame":"Potter",
-   "gender":"male",
-   "image":"",
-   "mark":10
+   "name":"Jennifer",
+   "surame":"Aniston",
+   "gender":"female",
+   "image":"https://cdn.britannica.com/46/242146-050-B3385913/Jennifer-Aniston-Golden-Globes-2020.jpg",
+   "mark":"10/10"
 }
 {
    "name":"Emma",
    "surame":"Watson",
    "gender":"female",
    "image":"https://upload.wikimedia.org/wikipedia/commons/3/31/Emma_Stone_at_Maniac_UK_premiere_%28cropped%29.jpg",
-   "mark":10/10
+   "mark":"10/10"
 }
 {
    "name":"Till",
    "surame":"Lindemann",
    "gender":"male",
    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Till_Lindemann_-_2017287141036_2017-10-14_Buchmesse_-_Sven_-_1D_X_MK_II_-_188_-_AK8I8026.jpg/1200px-Till_Lindemann_-_2017287141036_2017-10-14_Buchmesse_-_Sven_-_1D_X_MK_II_-_188_-_AK8I8026.jpg",
-   "mark":9/10
+   "mark":"9/10"
 }
 {
    "name":"Florence",
    "surame":"Pugh",
    "gender":"female",
    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Florence_Pugh_-_The_Wonder_BFI_London_Film_Festival_Premiere%2C_October_2022_%28cropped%29.jpg/220px-Florence_Pugh_-_The_Wonder_BFI_London_Film_Festival_Premiere%2C_October_2022_%28cropped%29.jpg",
-   "mark":10/10
+   "mark":"10/10"
 }
 {
    "name":"Mark",
    "surame":"Zuckerberg",
    "gender":"male",
    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Mark_Zuckerberg_F8_2019_Keynote_%2832830578717%29_%28cropped%29.jpg/640px-Mark_Zuckerberg_F8_2019_Keynote_%2832830578717%29_%28cropped%29.jpg",
-   "mark":11/10
+   "mark":"11/10"
 }
 {
    "name":"Zendaya",
    "surame":"Coleman",
    "gender":"female",
    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Zendaya_-_2019_by_Glenn_Francis.jpg/640px-Zendaya_-_2019_by_Glenn_Francis.jpg",
-   "mark":9/10
+   "mark":"9/10"
 }
